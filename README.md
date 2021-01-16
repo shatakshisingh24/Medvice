@@ -29,4 +29,15 @@ Contributions are what make the open source community such an amazing place to b
 
 4. Deploying using Flask
 
+## ❤️ Thanks to our awesome contributors ✨✨
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/shatakshisingh24/Medvice/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=shatakshisingh24/Medvice" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 See the [open issues](https://github.com/shatakshisingh24/Medvice/issues) for a list of proposed features (and known issues).
