@@ -29,6 +29,8 @@ Contributions are what make the open source community such an amazing place to b
 
 4. Deploying using Flask
 
+See the [open issues](https://github.com/shatakshisingh24/Medvice/issues) for a list of proposed features (and known issues).
+
 ## ❤️ Thanks to our awesome contributors ✨✨
 <table>
   <tr>
@@ -40,4 +42,4 @@ Contributions are what make the open source community such an amazing place to b
   </tr>
 </table>
 
-See the [open issues](https://github.com/shatakshisingh24/Medvice/issues) for a list of proposed features (and known issues).
+
