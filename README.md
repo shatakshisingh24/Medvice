@@ -31,6 +31,9 @@ Contributions are what make the open source community such an amazing place to b
 
 See the [open issues](https://github.com/shatakshisingh24/Medvice/issues) for a list of proposed features (and known issues).
 
+
+<--! CONTRIBUTER'S SECTION-->
+
 ## ❤️ Thanks to our awesome contributors ✨✨
 <table>
   <tr>
