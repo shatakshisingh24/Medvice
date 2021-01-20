@@ -1,15 +1,15 @@
 ![](assets/medvice.gif)
-# MEDVICE
+# MEDVICE :heart_decoration:
 
 Web Application to offer some advice by taking in the symptoms and telling probablity of a disease.
 
 
-## About the Project
+## About the Project :thought_balloon:
 
 Aim is to develop a website that asks for symptoms and predict the possible health issues. Mainly focusing on Mental Health related problems. However, initially we will work with datasets of different diseases for which opensource datasets are available.
 
 
-## Contributing
+## Contributing :point_down:
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **highly appreciated**.
 
@@ -20,7 +20,7 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-## Roadmap
+## Roadmap :world_map:
 
 1. Collecting Datasets of Different Diseases. 
 
@@ -35,7 +35,7 @@ See the [open issues](https://github.com/shatakshisingh24/Medvice/issues) for a 
 
 <--! CONTRIBUTER'S SECTION-->
 
-## ❤️ Thanks to our awesome contributors ✨✨
+## ❤️ Thanks to our awesome contributors:technologist: ✨✨
 <table>
   <tr>
     <td align="center">
