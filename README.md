@@ -1,12 +1,12 @@
 ![](assets/medvice.gif)
 # MEDVICE :heart_decoration:
 
-Web Application to offer some advice by taking in the symptoms and telling probablity of a disease.
+It is a Web Application to offer some advice by taking in the symptoms and telling probablity of a disease.
 
 
 ## About the Project :thought_balloon:
 
-Aim is to develop a website that asks for symptoms and predict the possible health issues. Mainly focusing on Mental Health related problems. However, initially we will work with datasets of different diseases for which opensource datasets are available.
+Our aim is to develop a website that asks for symptoms and predict the possible health issues. It mainly focuses on Mental Health related problems. However, initially we will work with datasets of different diseases for which opensource datasets are available.
 
 
 ## Contributing :point_down:
