@@ -1,0 +1,255 @@
+.nav {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.header {
+    height: 90vh;
+    width: 98vw;
+}
+
+.header-img {
+    float: right;
+    height: 90vh;
+    display: inline-block;
+    margin-top: 2rem;
+}
+
+.header-h2 {
+    font-family: candara;
+    font-weight: 1000;
+    display: inline-block;
+    width: 40vw;
+    margin-top: 40vh;
+    margin-left: 30px;
+    color: #323452;
+}
+
+.header-btn {
+    align-items: center;
+    justify-content: center;
+    margin-left: 15vw;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("https://image.freepik.com/free-vector/pharmacist-giving-pills-glass-water_107173-5559.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form {
+    justify-content: center;
+    align-items: center;
+    margin-left: 25vw;
+    padding-top: 40vh;
+}
+
+.input-field {
+    position: relative;
+    width: 50vw;
+    height: 44px;
+    line-height: 44px;
+}
+
+label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: #d3d3d3;
+    transition: 0.2s all;
+    cursor: text;
+}
+
+input {
+    width: 100%;
+    border: 0;
+    outline: 0;
+    padding: 0.5rem 0;
+    border-bottom: 2px solid black;
+    box-shadow: none;
+    color: #111;
+}
+
+input:invalid {
+    outline: 0;
+    color: #ff2300;
+    border-color: #ff2300;
+}
+
+input:focus,
+input:valid {
+    border-color: black;
+}
+
+input:focus~label,
+input:valid~label {
+    font-size: 14px;
+    top: -24px;
+    color: black;
+}
+
+.button {
+    float: right;
+    margin-right: 20vw;
+}
+
+.guarantee {
+    background-color: #DF9789;
+}
+
+.guarantee-img {
+    display: inline-block;
+}
+
+.guarantee-h2 {
+    display: inline-block;
+    padding-left: 10vw;
+    font-family: candara;
+    font-weight: 1000;
+}
+
+.guarantee-p {
+    display: inline-block;
+}
+
+#footer .twitter {
+    background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+#footer .linkedin {
+    background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+    background-repeat: no-repeat;
+    background-position: -78px 0;
+}
+
+#footer .facebook {
+    background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+    background-repeat: no-repeat;
+    background-position: -233px 0;
+}
+
+#footer .skype {
+    background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+    background-repeat: no-repeat;
+    background-position: -156px 0;
+}
+
+#footer .flickr {
+    background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+    background-repeat: no-repeat;
+    background-position: -310px 0;
+}
+
+#footer a {
+    height: 56px;
+    width: 56px;
+    display: inline-block;
+    margin: 10px;
+}
+
+#footer a:hover {
+    transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+}
+
+#footer .twitter:hover {
+    background-position: 0 -56px;
+}
+
+#footer .facebook:hover {
+    background-position: -233px -56px;
+}
+
+#footer .skype:hover {
+    background-position: -156px -56px;
+}
+
+#footer .linkedin:hover {
+    background-position: -78px -56px;
+}
+
+#footer .flickr:hover {
+    background-position: -310px -56px;
+}
+
+// Variables
+$grey: #bfbfbf;
+$light-grey: #efeded;
+$black: #000000;
+$radius-value: 3px;
+$box-max-width: 500px;
+$system-fonts: -apple-system,
+BlinkMacSystemFont,
+"Segoe UI",
+Helvetica,
+Arial,
+sans-serif,
+"Apple Color Emoji",
+"Segoe UI Emoji",
+"Segoe UI Symbol";
+// Review component
+.review {
+    display: inline-block;
+    margin: 2rem;
+    padding: 1.1rem;
+    max-width: $box-max-width;
+    border-radius: $radius-value;
+    border: 1px solid $grey;
+    background-color: $light-grey;
+    box-shadow: 0px 0px 15px rgba($black, 0.25);
+    font-family: $system-fonts;
+    #{&} &__title {
+        margin: 0 0 1rem 0;
+        font-size: 1.5rem;
+    }
+    #{&} &__score {
+        display: flex;
+        align-items: center;
+        margin-bottom: 0.8rem;
+        .score {
+            //margin-right: 1rem;
+            font-size: 2rem;
+        }
+        .score-stars {
+            margin-left: 0.8rem;
+        }
+    }
+    #{&} &__text {
+        line-height: 1.45;
+    }
+}
+
+@media screen and (max-width:420px) {
+    .header-img {
+        float: none;
+        max-width: 90vw;
+        height: 30vh;
+    }
+    .header-h2 {
+        margin-top: 5vh;
+        margin-left: 10vw;
+        width: 80vw;
+    }
+    .parallax {
+        overflow: hidden;
+    }
+    .guarantee {
+        background-color: #DF9789;
+    }
+    .guarantee-img {
+        display: inline-block;
+        width: 95vw;
+    }
+}
