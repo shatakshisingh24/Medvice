@@ -35,10 +35,7 @@ Contributions are what make the open source community such an amazing place to b
 
 See the [open issues](https://github.com/shatakshisingh24/Medvice/issues) for a list of proposed features (and known issues).
 
-
-<--! CONTRIBUTER'S SECTION-->
-
-## ❤️ Thanks to our awesome contributors:technologist: ✨✨
+## Project Admin ❤️
 <table>
   <tr>
     <td align="center">
@@ -46,29 +43,22 @@ See the [open issues](https://github.com/shatakshisingh24/Medvice/issues) for a 
               <img src="https://avatars2.githubusercontent.com/u/51313537?v=4" width="100px" alt=""/><br />
               <sub><b>shatakshisingh24</b></sub>
             </a><br/>
-            <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=shatakshisingh24">   
+            <a href="https://github.com/shatakshisingh24/Medvice/commits?author=shatakshisingh24">   
                 👑 👀 💬 Author
             </a>
           </td>
-    <td align="center">
-            <a href="https://github.com/Novartus">
-              <img src="https://avatars3.githubusercontent.com/u/62197910?v=4" width="100px" alt=""/><br />
-              <sub><b>Novartus</b></sub>
-            </a><br/>
-            <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Novartus">
-                💻
-            </a>
-          </td>
-    <td align="center">
-            <a href="https://github.com/samir-0711">
-              <img src="https://avatars0.githubusercontent.com/u/68433936?v=4" width="100px" alt=""/><br />
-              <sub><b>samir-0711</b></sub>
-            </a><br/>
-            <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=samir-0711">
-                📖
-            </a>
-          </td>
-  </tr>
+    	</tr>
 </table>
 
+## Contributors 🌟
 
+Thanks goes to these wonderful people ✨✨:
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/shatakshisingh24/Medvice/graphs/contributors">
+         <img src="https://contrib.rocks/image?repo=shatakshisingh24/Medvice" />
+      </a>
+    </td>
+  </tr>
+</table>
