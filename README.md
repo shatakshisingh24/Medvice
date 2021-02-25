@@ -8,6 +8,9 @@ It is a Web Application to offer some advice by taking in the symptoms and telli
 
 Our aim is to develop a website that asks for symptoms and predict the possible health issues. It mainly focuses on Mental Health related problems. However, initially we will work with datasets of different diseases for which opensource datasets are available.
 
+## Programs We have been associated with 🤍
+
+<a href="https://devscript.tech/woc/" target="_blank"><img src="assets/DWoC.png" width="180px" height="180px"></a>
 
 ## Contributing :point_down:
 
